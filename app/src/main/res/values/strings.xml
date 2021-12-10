@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My_Currency_App</string>
+    <string name="result_title">Result in Details </string>
+    <string name="result_currency">Currency</string>
+    <string name="result_detail">Result Detail Page</string>
+    <string name="list_title">Numbers of Saved Results</string>
+    <string name="main_title">Currency App</string>
+    <string name="main_input_hint">Input your checking amount(Integer Only)</string>
+    <string name="main_converted_amount">Your result will appear here</string>
+    <string name="run_button">Do it Now</string>
+    <string name="reset_button">Reset</string>
+    <string name="history_button">History</string>
+    <string name="item_first_line">Selected Currency and Converted Currency</string>
+    <string name="item_second_line">Rate</string>
+    <string name="item_third_line">Date</string>
+</resources>

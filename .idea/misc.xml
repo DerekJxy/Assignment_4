@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable/details_info_background.xml" value="0.2833333333333333" />
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable/details_info_foreground.xml" value="0.2833333333333333" />
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable/history_info_background.xml" value="0.3828125" />
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable/history_info_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Assignment_4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Assignment_4/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Assignment_4/app/src/main/res/layout/activity_list.xml" value="0.3635897435897436" />
+        <entry key="..\:/Assignment_4/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Assignment_4/app/src/main/res/layout/currency_item.xml" value="0.3635897435897436" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
